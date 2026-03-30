@@ -119,7 +119,6 @@ kubectl get services
 
 The pipeline is triggered on every push to the `main` branch.
 
-### مراحل:
 
 1. 📥 Checkout source code
 2. 📦 Install dependencies
